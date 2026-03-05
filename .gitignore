@@ -1,0 +1,18 @@
+# node_modules는 너무 무거우니 제외
+node_modules/
+
+# 빌드 결과물 제외
+dist/
+
+# 개인 설정 및 환경 변수 제외
+.env
+.vscode/
+*.html
+*.sql
+
+*.js
+*.png
+*.prisma
+*.toml
+*.http
+*.gitkeep
